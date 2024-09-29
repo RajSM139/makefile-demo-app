@@ -1,4 +1,4 @@
-# Demo App: Usage of Makefile
+# Demo App: Usage of Make and Makefile
 
 ## Installation:
 * Install `make` in your system [Mac OS](https://formulae.brew.sh/formula/make) | [Windows](https://community.chocolatey.org/packages/make)
